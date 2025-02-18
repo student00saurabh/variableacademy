@@ -1,0 +1,108 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0;
+	text-decoration: none;
+  	font-family: "Roboto Slab", serif;
+  	font-optical-sizing: auto;
+  	font-style: normal;
+	color: #1E5631;
+}
+/* Fixing of all color combinations */
+body{
+	color: #FAFAFA;
+}
+header, footer{
+	color: #1E5631;
+}
+.pbtn{
+	color: #16A34A;
+}
+.pbtn:hover{
+   color: #115E35;
+}
+.sbtn{
+	color: #A3C9A8;
+}
+.sbtn:hover{
+	color: #115E35;
+}
+.link{
+	color: #065F46;
+}
+
+
+.highlight {
+    color: #FFC107; /* Golden Yellow for emphasis */
+    font-weight: bold;
+}
+
+.important-box {
+    border-left: 5px solid #FFC107; /* Yellow left border */
+    padding: 10px;
+    background: #FAFAFA; /* Matches your background */
+}
+
+/* navbar.............. */
+.navbar, a:hover {
+    color: #FFC107; /* Turns link text yellow on hover */
+}
+
+/* Navbar Styling */
+.navbar {
+    background: #1E5631; /* Dark Green */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+/* Logo */
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+/* Navbar Links */
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: color 0.3s ease-in-out;
+}
+
+.nav-links a:hover {
+    color: #FFC107; /* Golden Yellow Hover Effect */
+}
+
+/* CTA Button */
+.cta-button {
+    background: #FFC107;
+    color: #2D2D2D;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.cta-button:hover {
+    background: #E0A800;
+}
