@@ -12,7 +12,7 @@
 body{
 	color: #FAFAFA;
 }
-header, footer{
+header, footer,.text{
 	color: #1E5631;
 }
 .pbtn{
@@ -49,60 +49,32 @@ header, footer{
 }
 
 /* Navbar Styling */
-.navbar {
-    background: #1E5631; /* Dark Green */
+.container-fluid>.navbar-brand, .nav-item>.nav-link,
+ .container-fluid>.navbar-toggler>.navbar-toggler-icon, .offcanvas>.offcanvas-header>.btn-close{
+    color: #1E5631;
+}
+.container-fluid>.navbar-brand:hover{
+    color: #1E5631;
+}
+.nav-item>.nav-link:hover{
+    color: #FFC107;
+}
+
+
+/* footer */
+@media(min-width: 390px){
+footer{
+    padding: 20px 0px 20px 0px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 20px;
-    position: relative;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: 100;
+    justify-content: space-evenly;
 }
-
-/* Logo */
-.logo {
-    font-size: 22px;
-    font-weight: bold;
-    color: white;
+.footer-box1{
+    border-right: 1px solid #1E5631;
+    padding: 10px;
+    text-align: center;
 }
-
-/* Navbar Links */
-.nav-links {
-    list-style: none;
-    display: flex;
-    gap: 15px;
+.footer-box2{
+    padding: 10px;
+    text-align: center;
 }
-
-.nav-links li {
-    display: inline;
-}
-
-.nav-links a {
-    text-decoration: none;
-    color: white;
-    font-size: 16px;
-    transition: color 0.3s ease-in-out;
-}
-
-.nav-links a:hover {
-    color: #FFC107; /* Golden Yellow Hover Effect */
-}
-
-/* CTA Button */
-.cta-button {
-    background: #FFC107;
-    color: #2D2D2D;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.cta-button:hover {
-    background: #E0A800;
 }
