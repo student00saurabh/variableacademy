@@ -216,6 +216,14 @@ footer{
     margin: 0;
     color: #A3C9A8;
 }
+.footer-bottom a {
+    color: #FFC107;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover {
+    text-decoration: underline;
+}
 
 @media (max-width: 768px) {
     .footer-container {
@@ -250,4 +258,5 @@ footer{
     .footer-form button {
         font-size: 14px;
     }
+    
 }
