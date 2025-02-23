@@ -15,7 +15,7 @@
 
   <!-- Notes Page -->
   <url>
-    <loc>https://variableacademy.online/notes/notes_homepage.html</loc>
+    <loc>https://variableacademy.online/notes</loc>
     <lastmod>2025-02-18T19:21:58+00:00</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -23,7 +23,7 @@
 
   <!-- Study Materials -->
   <url>
-    <loc>https://variableacademy.online/Mathematics/mathematics_homepage.html</loc>
+    <loc>https://variableacademy.online/materials</loc>
     <lastmod>2025-02-18T19:21:58+00:00</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -31,7 +31,7 @@
 
   <!-- About Page -->
   <url>
-    <loc>https://variableacademy.online/others/aboutMe.html</loc>
+    <loc>https://variableacademy.online/about</loc>
     <lastmod>2025-02-18T19:21:58+00:00</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://variableacademy.online/legal/contact.html</loc>
+    <loc>https://variableacademy.online/contact</loc>
     <lastmod>2025-02-18T19:21:58+00:00</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
