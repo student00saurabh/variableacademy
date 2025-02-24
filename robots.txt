@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://variableacademy.online/sitemap.xml
 
+User-agent: Googlebot
+Allow: /favicon.ico
