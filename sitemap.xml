@@ -45,6 +45,13 @@
     <changefreq>monthly</changefreq>
   </url>
 
+  <!-- Saurabh Mishra -->
+  <url>
+    <loc>https://variableacademy.online/others/saurabhmishra.html</loc>
+    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
 
 
 </urlset>

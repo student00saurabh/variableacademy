@@ -6,7 +6,7 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h3 {
+        h1,h2,h3,h4,h5 {
             color: #1E5631; /* Dark Green */
         }
         p {
@@ -23,4 +23,15 @@
         }
         a:hover {
             text-decoration: underline;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
         }
