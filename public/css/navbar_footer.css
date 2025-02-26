@@ -7,7 +7,8 @@
 	color: #1E5631;
 }
 *::selection{
-    color: #FFC107;
+    background-color: #FFC107;
+    color: #FAFAFA;
 }
 /* Fixing of all color combinations */
 body{
@@ -79,6 +80,12 @@ p{
 .main-box{
     padding: 10px;
 }
+/* .nav-link:hover{
+    background-color: #FFC107 !important;
+    color: white !important;
+    transition-duration: 0.5s !important;
+    border-radius: 5px !important;
+} */
 
 
 
@@ -175,6 +182,9 @@ footer{
     color: #FFC107; /* Golden Yellow */
 }
 
+.footer-form{
+    margin: 0px 10px 0px 0px;
+}
 .footer-form form {
     display: flex;
     flex-direction: column;
