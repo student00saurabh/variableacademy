@@ -2,8 +2,11 @@
 
 .hero {
   text-align: center;
-  padding: 80px 20px;
-  background: linear-gradient(to right, #09c7a4, #e9f06c); /* Dark Green to Light Green Gradient */
+  padding: 100px 20px;
+  background: linear-gradient(to right, #09c7a4, #edf0b7); /* Dark Green to Light Green Gradient */
+  background-image: url("/images/Untitled\ design.png");
+  background-size: cover;
+  background-position: center;
   color: #fff;
 }
 
