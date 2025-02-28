@@ -13,45 +13,164 @@
     <changefreq>daily</changefreq>
   </url>
 
-  <!-- Notes Page -->
+  <!-- B.Tech Hoem Page -->
   <url>
-    <loc>https://variableacademy.online/notes/notes_homepage.html</loc>
-    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+    <loc>https://variableacademy.online/btech_special/btech_home.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- Study Materials -->
+  <!-- Chemistry Home Page -->
   <url>
-    <loc>https://variableacademy.online/Mathematics/mathematics_homepage.html</loc>
-    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+    <loc>https://variableacademy.online/Chemistry/chemistry_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- About Page -->
+  <!-- Images -->
   <url>
-    <loc>https://variableacademy.online/others/aboutMe.html</loc>
-    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+    <loc>https://variableacademy.online/images/logo.png</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (1).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (2).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (3).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (4).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (5).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (6).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (7).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://variableacademy.online/images/sam1 (8).jpg</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Legal Pages -->
+
 
   <!-- Contact Page -->
   <url>
     <loc>https://variableacademy.online/legal/contact.html</loc>
-    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
 
-  <!-- Saurabh Mishra -->
+  <!-- Mathematics Home Page -->
   <url>
-    <loc>https://variableacademy.online/others/saurabhmishra.html</loc>
-    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+    <loc>https://variableacademy.online/Mathematics/mathematics_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Notes Home Page -->
+  <url>
+    <loc>https://variableacademy.online/notes/notes_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+
+  <!-- Others Pages -->
+
+
+  <!-- About Page -->
+  <url>
+    <loc>https://variableacademy.online/others/aboutMe.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
+  <!-- Saurabh Mishra -->
+  <url>
+    <loc>https://variableacademy.online/others/saurabhmishra.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Physics Home Pages -->
+  <url>
+    <loc>https://variableacademy.online/Physics/physics_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Programming Home Pages -->
+  <url>
+    <loc>https://variableacademy.online/Programming/programming_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Sylabus Home Page -->
+  <url>
+    <loc>https://variableacademy.online/Syllabus/syllabus_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Vacancis Home Page -->
+  <url>
+    <loc>https://variableacademy.online/Vacancis/vacancis_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Video Lectures Home Page -->
+  <url>
+    <loc>https://variableacademy.online/Video Lectures/videolecture_homepage.html</loc>
+    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
 
 
 </urlset>
