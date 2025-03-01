@@ -139,7 +139,8 @@
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- Programming Home Pages -->
+  <!-- Programming Home Pages   -->
+  <!-- not indexed -->
   <url>
     <loc>https://variableacademy.online/Programming/programming_homepage.html</loc>
     <lastmod>2025-02-28T18:30:00+00:00</lastmod>
