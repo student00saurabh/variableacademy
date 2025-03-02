@@ -140,7 +140,6 @@
   </url>
 
   <!-- Programming Home Pages   -->
-  <!-- not indexed -->
   <url>
     <loc>https://variableacademy.online/Programming/programming_homepage.html</loc>
     <lastmod>2025-02-28T18:30:00+00:00</lastmod>
@@ -149,6 +148,7 @@
   </url>
 
   <!-- Sylabus Home Page -->
+  <!-- not indexed -->
   <url>
     <loc>https://variableacademy.online/Syllabus/syllabus_homepage.html</loc>
     <lastmod>2025-02-28T18:30:00+00:00</lastmod>
@@ -157,6 +157,7 @@
   </url>
 
   <!-- Vacancis Home Page -->
+  <!-- not indexed -->
   <url>
     <loc>https://variableacademy.online/Vacancis/vacancis_homepage.html</loc>
     <lastmod>2025-02-28T18:30:00+00:00</lastmod>
@@ -165,6 +166,7 @@
   </url>
 
   <!-- Video Lectures Home Page -->
+  <!-- not indexed -->
   <url>
     <loc>https://variableacademy.online/Video Lectures/videolecture_homepage.html</loc>
     <lastmod>2025-02-28T18:30:00+00:00</lastmod>
