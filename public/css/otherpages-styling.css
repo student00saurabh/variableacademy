@@ -136,3 +136,22 @@
         .download-btn:hover {
             background: #115E35;
         }
+
+
+        /* New Button */
+        .explore-btn {
+            display: inline-block;
+            margin-top: 5px;
+            padding: 5px 10px;
+            background: #16A34A;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .explore-btn:hover {
+            background: #115E35;
+        }
