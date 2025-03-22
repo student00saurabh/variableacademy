@@ -129,9 +129,26 @@
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
+  <!-- C all pages-->
+  <url>
+    <loc>https://variableacademy.online/Programming/c/introduction-to-c.html</loc>
+    <lastmod>2025-03-22T23:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+
+  <!-- Articles -->
+  <url>
+    <loc>https://variableacademy.online/article/iec-college-student-review.html</loc>
+    <lastmod>2025-03-22T23:30:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+
 
   <!-- Sylabus Home Page -->
-  <!-- not indexed -->
   <url>
     <loc>https://variableacademy.online/Syllabus/syllabus_homepage.html</loc>
     <lastmod>2025-02-28T18:30:00+00:00</lastmod>
@@ -141,22 +158,9 @@
 
   <!-- Vacancis Home Page -->
   <!-- not indexed -->
-  <url>
-    <loc>https://variableacademy.online/Vacancis/vacancis_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
 
   <!-- Video Lectures Home Page -->
   <!-- not indexed -->
-  <url>
-    <loc>https://variableacademy.online/Video Lectures/videolecture_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
 
 
 </urlset>
