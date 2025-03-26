@@ -147,6 +147,8 @@ footer{
     color: #fff;
     padding: 50px 20px;
     text-align: center;
+    display: flex;
+    flex-direction: column; /* Ensures footer-bottom stays at bottom */
 }
 
 .footer-container {
@@ -155,6 +157,7 @@ footer{
     gap: 30px;
     max-width: 1100px;
     margin: auto;
+    flex-grow: 1; /* Allows content to expand */
 }
 
 .footer-section h3 {
@@ -182,9 +185,10 @@ footer{
     color: #FFC107; /* Golden Yellow */
 }
 
-.footer-form{
+.footer-form {
     margin: 0px 10px 0px 0px;
 }
+
 .footer-form form {
     display: flex;
     flex-direction: column;
@@ -215,17 +219,25 @@ footer{
     background: #115E35; /* Darker Green */
 }
 
+/* ✅ Ensure footer-bottom stays at bottom */
 .footer-bottom {
-    margin-top: 20px;
+    width: 100%;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     padding-top: 15px;
     border-top: 1px solid #A3C9A8;
     font-size: 14px;
+    margin-top: 20px; /* Push it to the bottom */
 }
 
 .footer-bottom p {
     margin: 0;
+    text-align: center;
     color: #A3C9A8;
 }
+
 .footer-bottom a {
     color: #FFC107;
     text-decoration: none;
@@ -235,6 +247,7 @@ footer{
     text-decoration: underline;
 }
 
+/* Responsive Styles */
 @media (max-width: 768px) {
     .footer-container {
         grid-template-columns: 1fr; /* Stack sections on small screens */
@@ -268,5 +281,4 @@ footer{
     .footer-form button {
         font-size: 14px;
     }
-    
 }
