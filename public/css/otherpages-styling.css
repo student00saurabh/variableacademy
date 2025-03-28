@@ -155,3 +155,43 @@
         .explore-btn:hover {
             background: #115E35;
         }
+
+
+    .code-card{
+        background-color: #1E5631;
+        width: auto;
+        height: fit-content;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    pre,code{
+        color: white;
+    }
+    .code-card>h5, .code-card>h4, .code-card>p{
+        color: gray;
+    }
+    .c1{
+        color: pink;
+    }
+    .c2{
+        color: aquamarine;
+    }
+    .c3{
+        color: aqua;
+    }
+    .c4{
+        color: chocolate;
+    }
+    .c5{
+        color: cornflowerblue;
+    }
+
+    @media(max-width : 390px){
+       .code-card{
+        background-color: #1E5631;
+        width: auto;
+        height: fit-content;
+        padding: 5px;
+        border-radius: 5px;
+    } 
+    }
