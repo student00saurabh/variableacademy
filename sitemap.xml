@@ -1,166 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-  <!-- Homepage -->
-  <url>
-    <loc>https://variableacademy.online/</loc>
-    <lastmod>2025-02-18T19:21:58+00:00</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
+<!-- Homepage -->
+<url>
+  <loc>https://variableacademy.online/</loc>
+  <lastmod>2025-02-18T19:21:58+00:00</lastmod>
+  <priority>1.0</priority>
+  <changefreq>daily</changefreq>
 
-    <!-- Image -->
-    <image:image>
-      <image:loc>https://variableacademy.online/images/logo.webp</image:loc>
-      <image:title>Variable Academy Logo</image:title>
-      <image:caption>This is Logo of Variable Academy.</image:caption>
-    </image:image>
-  </url>
+  <!-- Image -->
+  <image:image>
+    <image:loc>https://variableacademy.online/images/logo.webp</image:loc>
+    <image:title>Variable Academy Logo</image:title>
+    <image:caption>This is Logo of Variable Academy.</image:caption>
+  </image:image>
+</url>
 
-  <!-- B.Tech Hoem Page -->
-  <url>
-    <loc>https://variableacademy.online/btech_special/btech_home.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<!-- B.Tech Hoem Page -->
+<url>
+  <loc>https://variableacademy.online/btech_special/btech_home.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
 
-  <!-- Chemistry Home Page -->
-  <url>
-    <loc>https://variableacademy.online/Chemistry/chemistry_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<!-- Chemistry Home Page -->
+<url>
+  <loc>https://variableacademy.online/Chemistry/chemistry_homepage.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
 
-  <!-- Images -->
-  <url>
-    <loc>https://variableacademy.online/images/logo.png</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-
-
-  <!-- Legal Pages -->
+<!-- Images -->
+<url>
+  <loc>https://variableacademy.online/images/logo.png</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+</url>
 
 
-  <!-- Contact Page -->
-  <url>
-    <loc>https://variableacademy.online/legal/contact.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <!-- Mathematics Home Page -->
-  <url>
-    <loc>https://variableacademy.online/Mathematics/mathematics_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
-  <!-- Notes Home Page -->
-  <url>
-    <loc>https://variableacademy.online/notes/notes_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<!-- Legal Pages -->
 
 
-  <!-- Others Pages -->
+<!-- Contact Page -->
+<url>
+  <loc>https://variableacademy.online/legal/contact.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+</url>
+
+<!-- Mathematics Home Page -->
+<url>
+  <loc>https://variableacademy.online/Mathematics/mathematics_homepage.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<!-- Notes Home Page -->
+<url>
+  <loc>https://variableacademy.online/notes/notes_homepage.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
 
 
-  <!-- About Page -->
-  <url>
-    <loc>https://variableacademy.online/others/aboutMe.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <!-- Saurabh Mishra -->
-  <url>
-    <loc>https://variableacademy.online/others/saurabhmishra.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.5</priority>
-    <changefreq>monthly</changefreq>
-
-    <!-- Image 1 -->
-    <image:image>
-      <image:loc>https://variableacademy.online/images/Saurabh Mishra.webp</image:loc>
-      <image:title>Saurabh Mishra Profile Photo</image:title>
-      <image:caption>This is the profile image of Saurabh Mishra, the founder of Variable Academy.</image:caption>
-    </image:image>
-
-    <!-- Image 2 -->
-    <image:image>
-      <image:loc>https://variableacademy.online/images/Saurabh-mishra.webp</image:loc>
-      <image:title>Saurabh Mishra</image:title>
-      <image:caption>Saurabh Mishra Variable Academy.</image:caption>
-    </image:image>
-
-    <!-- Image 3 -->
-    <image:image>
-      <image:loc>https://variableacademy.online/images/variable academy saurabh mishra.webp</image:loc>
-      <image:title>Variable Academy </image:title>
-      <image:caption>Saurabh Mishra Variable Academy.</image:caption>
-    </image:image>
-  </url>
-
-  <!-- Physics Home Pages -->
-  <url>
-    <loc>https://variableacademy.online/Physics/physics_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
-  <!-- Programming Home Pages   -->
-  <url>
-    <loc>https://variableacademy.online/Programming/programming_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <!-- C all pages-->
-  <url>
-    <loc>https://variableacademy.online/Programming/c/introduction-to-c.html</loc>
-    <lastmod>2025-03-22T23:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<!-- Others Pages -->
 
 
-  <!-- Articles -->
-  <url>
-    <loc>https://variableacademy.online/article/iec-college-student-review.html</loc>
-    <lastmod>2025-03-22T23:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<!-- About Page -->
+<url>
+  <loc>https://variableacademy.online/others/aboutMe.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<!-- Saurabh Mishra -->
+<url>
+  <loc>https://variableacademy.online/others/saurabhmishra.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+
+  <!-- Image 1 -->
+  <image:image>
+    <image:loc>https://variableacademy.online/images/Saurabh Mishra.webp</image:loc>
+    <image:title>Saurabh Mishra Profile Photo</image:title>
+    <image:caption>This is the profile image of Saurabh Mishra, the founder of Variable Academy.</image:caption>
+  </image:image>
+
+  <!-- Image 2 -->
+  <image:image>
+    <image:loc>https://variableacademy.online/images/Saurabh-mishra.webp</image:loc>
+    <image:title>Saurabh Mishra</image:title>
+    <image:caption>Saurabh Mishra Variable Academy.</image:caption>
+  </image:image>
+
+  <!-- Image 3 -->
+  <image:image>
+    <image:loc>https://variableacademy.online/images/variable academy saurabh mishra.webp</image:loc>
+    <image:title>Variable Academy </image:title>
+    <image:caption>Saurabh Mishra Variable Academy.</image:caption>
+  </image:image>
+</url>
+
+<!-- Physics Home Pages -->
+<url>
+  <loc>https://variableacademy.online/Physics/physics_homepage.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<!-- Programming Home Pages   -->
+<url>
+  <loc>https://variableacademy.online/Programming/programming_homepage.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- C all pages-->
+<url>
+  <loc>https://variableacademy.online/Programming/c/introduction-to-c.html</loc>
+  <lastmod>2025-03-22T23:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+
+<!-- Articles -->
+<url>
+  <loc>https://variableacademy.online/article/iec-college-student-review.html</loc>
+  <lastmod>2025-03-22T23:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
 
 
 
-  <!-- Sylabus Home Page -->
-  <url>
-    <loc>https://variableacademy.online/Syllabus/syllabus_homepage.html</loc>
-    <lastmod>2025-02-28T18:30:00+00:00</lastmod>
-    <priority>0.8</priority>
-    <changefreq>weekly</changefreq>
-  </url>
+<!-- Sylabus Home Page -->
+<url>
+  <loc>https://variableacademy.online/Syllabus/syllabus_homepage.html</loc>
+  <lastmod>2025-02-28T18:30:00+00:00</lastmod>
+  <priority>0.8</priority>
+  <changefreq>weekly</changefreq>
+</url>
 
-  <!-- Vacancis Home Page -->
-  <!-- not indexed -->
+<!-- Vacancis Home Page -->
+<!-- not indexed -->
 
-  <!-- Video Lectures Home Page -->
-  <!-- not indexed -->
+<!-- Video Lectures Home Page -->
+<!-- not indexed -->
 
 
-</urlset>
+</urlset> -->
